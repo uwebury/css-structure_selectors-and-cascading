@@ -70,7 +70,7 @@ a[href^="https://"]
 }
 
 /* 4. These styles should apply to all links in the main navigation */
-a[href^="#"] {
+nav a {
   outline: 2px dashed red;
   color: #ffffff;
   text-decoration: none;
